@@ -5,5 +5,6 @@
 - OpenCV-4.1.0_x86_MinGW.7z : OpenCV version 4.1.0 with MinGW32 
 
 Check my blog (korean)
+
 https://blog.naver.com/tommybee/221591691375
 https://blog.naver.com/tommybee/221588491810
